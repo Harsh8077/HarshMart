@@ -1,0 +1,70 @@
+
+.hdphn{
+  padding-left: 43%;
+  font-family: 'Merienda', cursive;
+  color: #66bfbf;
+
+}
+.shoes18{
+  padding-left: 45%;
+  font-family: 'Merienda', cursive;
+  color: #66bfbf;
+
+}
+.list-group{
+  text-align: center;
+}
+#pricing{
+  padding: 5% 7%;
+  font-family: 'Itim', cursive;
+}
+#view-product{
+  padding: 5% 7%;
+background-color: #7CD1B8;
+font-family: 'Merienda', cursive;
+}
+#view-product2{
+  padding: 5% 7%;
+  background-color: #FFBD35;
+  font-family: 'Merienda', cursive;
+}
+.shoe1{
+  height: 350px;
+  width: 400px;
+}
+#cta{
+  padding: 5% 7%;
+  text-align: center;
+  background-color: #66bfbf;
+  font-family: 'Itim', cursive;
+}
+.download-button{
+  margin: 3% 4%;
+
+}
+.list-group-item{
+  font-family: 'Courgette', cursive;
+}
+#contact{
+  padding: 5% 7%;
+  text-align: center;
+background-color: #FFF9F9;
+}
+.social-icon{
+  margin: 10px;
+  color: #8FD6E1;
+}
+.social-icon:hover{
+color:#F0C929 ;
+}
+@media (max-width:1070px) {
+  #pricing{
+    text-align: center;
+  }
+  .buy-btn{
+    width: 50%;
+  }
+  .hdphn{
+    padding-left: 40%;
+  }
+}
